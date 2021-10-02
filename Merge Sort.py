@@ -40,5 +40,5 @@ print(array)
 
 # Time complexities-
 # i) Best case: Ω(n log(n))
-# ii) Worst case: θ(n log(n))
-# iii) Average case: O(n log(n))
+# ii) Worst case: O(n log(n))
+# iii) Average case: θ(n log(n))
